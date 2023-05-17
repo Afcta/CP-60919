@@ -53,7 +53,7 @@ print(add34(1))   # mostra 35
 Outro exemplo:
 ```python
 def multiplicator(n):
-    return lambda a : a * n
+    return lambda a : a * nc
 
 mult3 = multiplicator(3)
 
